@@ -1,6 +1,10 @@
 # ChatApp
 A simple chat app made with django and channels that runs on ASGI server
 
+Requirments:
+64 bit windows only.
+Redis 64 (Currently 64 bit supported only) <a href="https://github.com/microsoftarchive/redis/releases">From here</a>
+
 <h2>Instructions</h2>
 
 <h4>Make sure you have python installed</h4>
