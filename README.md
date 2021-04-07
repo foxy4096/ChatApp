@@ -13,7 +13,7 @@ Step 1. Open a terminal
 
 Step 2. Paste the given code in the terminal
 ```
-git clone https://github.com/adityapriyadarshi669/ChatApp.git
+git clone https://github.com/foxy4096/ChatApp.git
 ```
 Step 3. Now type this in the terminal
 ```
