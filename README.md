@@ -2,8 +2,11 @@
 A simple chat app made with django and channels that runs on ASGI server
 
 Requirments:
+
 Computer Machine With Redis installed
+
 Redis 64 for Windows 10 64 <a href="https://github.com/microsoftarchive/redis/releases">From here</a>
+
 Redis 32 for Windows 10 32 <a href="https://github.com/cuiwenyuan/Redis-Windows-32bit">From here</a>
 <h2>Instructions</h2>
 
